@@ -1,4 +1,4 @@
 # project-2
 This is my project
 <br>
-project name : plaque classification using Machine learning
+project name : plaque classification using ML
